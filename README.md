@@ -1,4 +1,4 @@
-# Ejemplo carrito de comporas con objeto y template
+# Ejemplo carrito de compras con objeto y template
 
 ## Todo con fines educativos
 
